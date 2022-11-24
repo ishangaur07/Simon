@@ -2,7 +2,15 @@ body {
   text-align: center;
   background-color: #011F3F;
 }
-
+.rule a{
+  font-size: 24px;
+  color: white;
+  font-family:'Press Start 2P', cursive;
+  text-decoration: none;
+} 
+.rule a:hover{
+  color: blueviolet;
+} 
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
