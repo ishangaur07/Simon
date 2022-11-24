@@ -1,5 +1,5 @@
 # Simon Rules
-!. Press any key from key board to start the game, the Game Selector choose a color and the Skill Level switch to 1,2, 3 and so on.
+1. Press any key from key board to start the game, the Game Selector choose a color and the Skill Level switch to 1,2, 3 and so on.
 
 2. Simon will give the first signal. Repeat the signal by pressing the same color button.
 
