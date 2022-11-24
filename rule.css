@@ -1,0 +1,16 @@
+.Rules-Body{
+    background-color: rgb(57, 71, 79);
+    color: white;
+    width: 60%;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Rules-Heading{
+    text-align: center;
+    font-size: 60px;
+}
+.Rules-Life{
+    font-size: 24px;
+    line-height: 2;
+    text-align: center;
+}
